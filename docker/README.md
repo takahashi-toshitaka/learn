@@ -1,5 +1,10 @@
 # docker
 
+- 概要
+```
+軽量な仮装化環境
+Build once, Run anywhere
+```
 - Dockerfile
 ```
 Dockerコンテナーの構成内容をまとめて記述するシンプルなテキスト形式のファイル
